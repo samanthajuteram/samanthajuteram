@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sam 👋
 
-<!--
-**samanthajuteram/samanthajuteram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist finishing my **Master of Data Science at UC Irvine** (December 2026), based in California.
 
-Here are some ideas to get you started:
+I'm curious by nature, and when something catches my interest I go all in until I'm basically a mini expert on it. Data is the same for me. I like digging into a new dataset, finding the weird stuff, and asking a lot of questions before I build anything. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My tech stack:**
+- **Languages:** R (my favorite), Python (pandas, NumPy, scikit-learn, PyTorch), SQL (PostgreSQL, SQL Server), Cypher
+- **Modeling:** regression, clustering, classification models, mixed-effects and hierarchical models, time series, PCA, VAEs, neural nets, bayesian analysis, MCMC, HMMs
+- **Visualization:** ggplot2, matplotlib, plotly, Power BI, Streamlit, Tableau, Excel
+
+
+**Fun facts:**
+- I am originally from Trinidad and Tobago
+- I used to be national golfer
+- The cinema is my favorite place
+- Letterboxd and Beli are favorite apps 
